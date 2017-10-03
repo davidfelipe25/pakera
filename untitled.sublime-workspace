@@ -1,0 +1,856 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"e",
+				"height"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"head",
+				"head\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-size-adjust"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"A",
+				"alt\tAttr"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mag",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"a",
+				"alternate"
+			],
+			[
+				"ani",
+				"animation"
+			],
+			[
+				"n",
+				"infinite"
+			],
+			[
+				"tranfor",
+				"transform"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"r",
+				"rotate3d()"
+			],
+			[
+				"t",
+				"translate3d()"
+			],
+			[
+				"transform",
+				"transform"
+			],
+			[
+				"tra",
+				"transform-origin"
+			],
+			[
+				"skew",
+				"skewY()"
+			],
+			[
+				"transfo",
+				"text-transform"
+			],
+			[
+				"border-right",
+				"border-right-width"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"do",
+				"dotted"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"column",
+				"column"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"wrap",
+				"wrap-reverse"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fl",
+				"flex-start"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"fru",
+				"FrutigerNextLT-Light"
+			],
+			[
+				"fotn",
+				"font-weight"
+			],
+			[
+				"flex-",
+				"flex-flow"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"cir",
+				"circulo-timeline-v"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"logo",
+				"logo-cba"
+			],
+			[
+				"wh",
+				"white-space"
+			],
+			[
+				"f",
+				"flex-start"
+			],
+			[
+				"row",
+				"row-reverse"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"align-s",
+				"align-self"
+			],
+			[
+				"te",
+				"text-decoration-style"
+			],
+			[
+				"S",
+				"Sans"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"bacgor",
+				"background"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"Box-s",
+				"box-sizing"
+			],
+			[
+				"bi",
+				"biblioteca"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"C",
+				"color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"pagd",
+				"padding"
+			],
+			[
+				"Educap",
+				"Educapfotoselogos"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"bor",
+				"border-bottom-width"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"css",
+				"css"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"aling",
+				"align-items"
+			],
+			[
+				"WI",
+				"width"
+			],
+			[
+				"body",
+				"border-top-style"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"B",
+				"background"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/vainaweb/Documentos/geraldo/index.html",
+			"settings":
+			{
+				"buffer_size": 890,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/vainaweb/Documentos/geraldo/style.css",
+			"settings":
+			{
+				"buffer_size": 611,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/vainaweb/Documentos",
+		"/home/vainaweb/Documentos/davidfelipe",
+		"/home/vainaweb/Documentos/geraldo"
+	],
+	"file_history":
+	[
+		"/home/vainaweb/Documentos/geraldo/you.png",
+		"/home/vainaweb/Documentos/geraldo/style.css",
+		"/home/vainaweb/Documentos/geraldo/tw.png",
+		"/home/vainaweb/Documentos/geraldo/inst.jpg",
+		"/home/vainaweb/Documentos/Geraldo Volcy.img",
+		"/home/vainaweb/Documentos/rocrenan/style.css",
+		"/home/vainaweb/Documentos/rocrenan/index.html",
+		"/home/vainaweb/Documentos/rocrenan/renanperfil",
+		"/home/vainaweb/Documentos/dudu/index.html",
+		"/home/vainaweb/Documentos/dupla eduardo tarcisio/index.html",
+		"/home/vainaweb/Área de Trabalho/Rafaele e Peterson/index.html",
+		"/home/vainaweb/Documentos/paulo/projetopaulo/src/App.vue",
+		"/home/vainaweb/Documentos/paulo/projetopaulo/src/components/fe.vue",
+		"/home/vainaweb/Documentos/paulo/projetopaulo/src/components/PerfilGuilherme.vue",
+		"/home/vainaweb/Documentos/paulo/projetopaulo/src/router/index.js",
+		"/home/vainaweb/Documentos/paulo/projetopaulo/src/components/PerfilPaulo.vue",
+		"/home/vainaweb/Documentos/paulinhoph.github.io/style.css",
+		"/home/vainaweb/Documentos/paulo/projetopaulo/src/components/Hello.vue",
+		"/home/vainaweb/Documentos/paulo/projetopaulo/src/components/paulo.vue",
+		"/home/vainaweb/Aula1/Aula1/src/App.vue",
+		"/home/vainaweb/Aula1/Aula1/src/components/Hello.vue",
+		"/home/vainaweb/Aula1/Aula1/src/components/Oi.vue",
+		"/home/vainaweb/Área de Trabalho/KATHLEEM&DOUGLAS/index.html",
+		"/home/vainaweb/Aula1/Aula1/src/router/index.js",
+		"/home/vainaweb/Documentos/trabalhoMarco/grupopensar/style.css",
+		"/home/vainaweb/Documentos/trabalhoMarco/grupopensar/index.html",
+		"/home/vainaweb/Documentos/pve/pve/index.html",
+		"/home/vainaweb/Documentos/pve/pve/style.css",
+		"/home/vainaweb/Documentos/pve/pve/fonts.css",
+		"/home/vainaweb/Documentos/pve/pve/emailmkt2.html",
+		"/home/vainaweb/Documentos/GabrielMilão/GabrielMilao.github.io/style.css",
+		"/home/vainaweb/Documentos/GabrielMilão/GabrielMilao.github.io/index.html",
+		"/home/vainaweb/Documentos/pve/pve/emailmkt1.html",
+		"/home/vainaweb/Documentos/pve/style-tabela.css",
+		"/home/vainaweb/Documentos/pve/emailmkt2.html",
+		"/home/vainaweb/Documentos/pve/style.css",
+		"/home/vainaweb/Documentos/pve/index.html",
+		"/home/vainaweb/Documentos/pve/style-email.css",
+		"/home/vainaweb/Documentos/pve/email.html",
+		"/home/vainaweb/Documentos/pve/fonts.css",
+		"/home/vainaweb/Documentos/vainawebpve/pve/pve/index.html",
+		"/home/vainaweb/Documentos/vainawebpve/pve/pve/style.css",
+		"/home/vainaweb/Documentos/vainawebpve/pve/index.html",
+		"/home/vainaweb/Documentos/vainawebpve/pve/style.css",
+		"/home/vainaweb/Documentos/atravesdamusica/index.html",
+		"/home/vainaweb/Documentos/atravesdamusica/style.css",
+		"/home/vainaweb/Documentos/trabalhohigor/amavere/index.html",
+		"/home/vainaweb/Documentos/trabalhohigor/amavere/style.css",
+		"/home/vainaweb/Documentos/trabalhoiago/poetasfavelados/style.css",
+		"/home/vainaweb/Documentos/trabalhoiago/poetasfavelados/index.html",
+		"/home/vainaweb/Documentos/TrabalhoGuilhermefelipe/grupopensar/style.css",
+		"/home/vainaweb/Documentos/TrabalhoGuilhermefelipe/grupopensar/index.html",
+		"/home/vainaweb/Documentos/trabalhoYanna/brunnoviana/index.html",
+		"/home/vainaweb/Documentos/trabalhoYanna/brunnoviana/style.css",
+		"/home/vainaweb/Documentos/trabalhoVictor/VictorMenezes/favelaconsciente/style.css",
+		"/home/vainaweb/Documentos/trabalhoVictor/VictorMenezes/favelaconsciente/index.html",
+		"/home/vainaweb/Documentos/trabalhohigor/amavere/Android Mobile – 1.pdf",
+		"/home/vainaweb/Documentos/trabalhoDavid/desafiovnw/index.html",
+		"/home/vainaweb/Documentos/trabalhoDavid/desafiovnw/style.css",
+		"/home/vainaweb/Documentos/trabalhoiago/desafiovnw/style.css",
+		"/home/vainaweb/Documentos/trabalhoiago/desafiovnw/index.html",
+		"/home/vainaweb/Documentos/trabalhoMarco/desafiovnw/index.html",
+		"/home/vainaweb/Documentos/trabalhoMarco/desafiovnw/style.css",
+		"/home/vainaweb/Documentos/trabalhoVictor/VictorMenezes/index.html",
+		"/home/vainaweb/Documentos/trabalhoPedro/desafiovnw/index.html",
+		"/home/vainaweb/Documentos/trabalhoPedro/desafiovnw/style.css",
+		"/home/vainaweb/Documentos/trabalhoVictor/VictorMenezes/style.css",
+		"/home/vainaweb/Documentos/trabalhoDavid/desafiovnw/assets/impossible.png",
+		"/home/vainaweb/Documentos/trabalhoDavid/desafiovnw/assets/schmidt.png",
+		"/home/vainaweb/Documentos/trabalhoDavid/desafiovnw/assets/possible.png",
+		"/home/vainaweb/Documentos/trabalhoDavid/desafiovnw/html.css",
+		"/home/vainaweb/Documentos/MirianEllen.github.io/style.css",
+		"/home/vainaweb/Documentos/MirianEllen.github.io/index.html",
+		"/home/vainaweb/Documentos/VictorMenezes.github.io/style.css",
+		"/home/vainaweb/Documentos/VictorMenezes.github.io/index.html",
+		"/home/vainaweb/Documentos/iagovitordelimanegreiros.github.io/index.html",
+		"/home/vainaweb/Documentos/iagovitordelimanegreiros.github.io/style.css",
+		"/home/vainaweb/Área de Trabalho/rionilo/style.css",
+		"/home/vainaweb/Área de Trabalho/rionilo/index.html",
+		"/home/vainaweb/Documentos/MirianEllen/index.html",
+		"/home/vainaweb/Documentos/MirianEllen/style.css",
+		"/home/vainaweb/Área de Trabalho/aula3/style.css",
+		"/home/vainaweb/Área de Trabalho/aula3/index.html",
+		"/home/vainaweb/Área de Trabalho/Desafio: Descrevendo um Filme/index.html",
+		"/home/vainaweb/Área de Trabalho/Desafio: Descrevendo um Filme/style.css",
+		"/home/vainaweb/Área de Trabalho/iago vitor/style.css",
+		"/home/vainaweb/Área de Trabalho/iago vitor/index.html",
+		"/home/vainaweb/Área de Trabalho/aula/index.html",
+		"/home/vainaweb/Área de Trabalho/aula/style.css",
+		"/home/vainaweb/Área de Trabalho/VM/index.html",
+		"/home/vainaweb/Área de Trabalho/David Felipe/david.html",
+		"/home/vainaweb/Área de Trabalho/David Felipe/index.html",
+		"/home/vainaweb/Área de Trabalho/David Felipe/foto2.jpg",
+		"/home/vainaweb/Área de Trabalho/aula03/index.html",
+		"/home/vainaweb/Área de Trabalho/aula 01/index.html",
+		"/home/vainaweb/Área de Trabalho/aula 02/index.html",
+		"/home/vainaweb/Área de Trabalho/aula01/index.html",
+		"/home/vainaweb/Documentos/educap/index.html",
+		"/home/vainaweb/Documentos/educap/style.css",
+		"/home/vainaweb/Documentos/glossario/index.html",
+		"/home/vainaweb/Documentos/glossario/style.css",
+		"/home/vainaweb/Documentos/turmadasopa/style.css",
+		"/home/vainaweb/Documentos/turmadasopa/index.html",
+		"/home/vainaweb/Documentos/educap/educap/index.html",
+		"/home/vainaweb/Documentos/educap/educap/style.css",
+		"/home/vainaweb/Documentos/turmadasopa/turma da sopa_mobile.pdf",
+		"/home/vainaweb/Documentos/turmadasopa/turma da sopa_desktop -.pdf",
+		"/home/vainaweb/Documentos/OSC-Legal/style.css",
+		"/home/vainaweb/Documentos/OSC-Legal/index.html",
+		"/home/vainaweb/Documentos/projetoSara/index.ios.js",
+		"/home/vainaweb/Documentos/projetoSara/Group 52@2x.png.png",
+		"/home/vainaweb/Documentos/projetoSara/index.android.js",
+		"/home/vainaweb/Documentos/projetoSara/android/local.properties",
+		"/home/vainaweb/Documentos/react.native/app/screens/mainScreen/mainScreen.js",
+		"/home/vainaweb/Documentos/react.native/android/app/build.gradle",
+		"/home/vainaweb/lumedeestrelas/index.html",
+		"/home/vainaweb/lumedeestrelas/style.css",
+		"/home/vainaweb/lumedeestrelas/contato.html",
+		"/home/vainaweb/lumedeestrelas/uniforme.html",
+		"/home/vainaweb/lumedeestrelas/jogos.html",
+		"/home/vainaweb/lumedeestrelas/jogadores.html",
+		"/home/vainaweb/Área de Trabalho/rorobeckham.github.io-master/style.css",
+		"/home/vainaweb/Área de Trabalho/rorobeckham.github.io-master/index.html",
+		"/home/vainaweb/Documentos/romulotunala.github.io/style.css",
+		"/home/vainaweb/Documentos/romulotunala.github.io/index.html",
+		"/home/vainaweb/Documentos/ingridcalis.github.io/style.css",
+		"/home/vainaweb/Documentos/ingridcalis.github.io/index.html",
+		"/home/vainaweb/Área de Trabalho/adriel1998.github.io/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/vainaweb/Documentos/trabalhoMarco"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"46",
+			"50",
+			"160px",
+			"rgba",
+			"opacity",
+			"58vh",
+			"\t\n",
+			";\n",
+			"favela",
+			";\n",
+			"}",
+			"\t\t\t\t</",
+			"edit2",
+			"visited"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/vainaweb/Documentos/geraldo/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								791,
+								791
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/vainaweb/Documentos/geraldo/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
